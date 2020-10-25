@@ -1,5 +1,5 @@
 # Rover Projects
-Horizontal Rule
+
 This is a series of rovers I made starting my senior year of high school.
 
 **Rover V.1**
