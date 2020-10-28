@@ -36,8 +36,7 @@ def action(deviceName):
         os.system("sudo killall motion")
     if deviceName == 'Snap':
         os.system("curl -s -o /dev/null http://10.0.0.101:8080/0/action/snapshot")
-    if deviceName == 'Vid':
-        os.system("curl -s -o /dev/null http://10.0.0.101:8080/0/action/makemovie")
+   
         
     return render_template('index.html')
     if __name__ == "__main__":
