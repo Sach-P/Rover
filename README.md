@@ -1,7 +1,5 @@
 # Rover Projects
 
-This is a series of rovers I made starting my senior year of high school.
-
 **Rover V.1**
 This rover was made using the Arduino UNO and other Arduino compatible components.
 * Ultra-Sonic Sensor 
