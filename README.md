@@ -19,5 +19,5 @@ This rover was made using the Arduino UNO and Raspberry Pi 4 (2Gb).
 * DC motor x4
 * Motor controller
 * 18650 battery x2
-* Powerbank (for Pi)
+* 5v 3A Powerbank (for Pi)
 * USB Webcam
